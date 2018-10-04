@@ -1,0 +1,5 @@
+name: MoCraft
+main: ninja.kungraseri.MoCraft
+version: 0.0.1
+api-version: 1.12.2
+commands:
