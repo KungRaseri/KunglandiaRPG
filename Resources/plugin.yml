@@ -1,0 +1,9 @@
+name: KunglandiaPlugin
+main: ninja.kungraseri.kunglandia.KunglandiaPlugin
+version: 0.0.1
+api-version: 1.12.2
+description: kunglandia
+commands:
+  test:
+    usage: /test
+    description: this is a test
