@@ -81,7 +81,7 @@
         </pluginManagement>
         <resources>
             <resource>
-                <directory>Resources</directory>
+                <directory>src/main/resources</directory>
                 <includes>
                     <include>
                         plugin.yml
