@@ -79,5 +79,15 @@
                 </plugin>
             </plugins>
         </pluginManagement>
+        <resources>
+            <resource>
+                <directory>Resources</directory>
+                <includes>
+                    <include>
+                        plugin.yml
+                    </include>
+                </includes>
+            </resource>
+        </resources>
     </build>
 </project>
